@@ -1,3 +1,3 @@
-# algorithms and Data structures
+# Algorithms and Data Structures
 
 pag 94
