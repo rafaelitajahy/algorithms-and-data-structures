@@ -7,4 +7,4 @@ https://github.com/loiane/javascript-datastructures-algorithms
 - Um array armazena valores que são todos do mesmo tipo, sequencialmente.
   - Quando trabalhamos com arrays, a maioria dos métodos tem uma complexidade de tempo O(n)
 
-pag 130
+pag 138 - cap 5
